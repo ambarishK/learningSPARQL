@@ -1,3 +1,26 @@
 ## page for learning usage of SPARQL for querying chemical compounds from WIKIDATA. 
 
 - [WikiProject_Chemistry](https://www.wikidata.org/wiki/Wikidata:WikiProject_Chemistry/Guidelines)
+
+- Items - 
+
+- Properties - 
+ - P661 - [ChemSpider ID](https://www.wikidata.org/wiki/Property:P661) - instance of - Wikidata property to identify substances OR Wikidata property related to chemistry.
+ 
+ - P3117 - [DSSTOX substance identifier](https://www.wikidata.org/wiki/Property:P3117) - instances of - Wikidata property to identify substances.
+ 
+ - P683 [ChEBI ID](https://www.wikidata.org/wiki/Property:P683) - instance of - Wikidata property to identify substances.
+ 
+ - P662 [PubChem CID](https://www.wikidata.org/wiki/Property:P662) - instance of - Wikidata property to identify substances, Wikidata property related to chemistry, Wikidata property related to biology.
+ 
+ - P31 [instance of](https://www.wikidata.org/wiki/Property:P31) - instance of - Wikidata property.
+ 
+ - P279 [subclass of](https://www.wikidata.org/wiki/Property:P279) - instance of - transitive property.
+ 
+ - P361 [part of](https://www.wikidata.org/wiki/Property:P361) - instance of - transitive property, asymmetric Wikidata property.
+ 
+ - P527 [has part](https://www.wikidata.org/wiki/Property:P527) - instance of - transitive property.
+ 
+ - P1889 [different from](https://www.wikidata.org/wiki/Property:P1889) - instance of - Wikidata property to describe the elements of identity, symmetric property.
+ 
+ 
