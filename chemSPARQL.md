@@ -75,6 +75,7 @@ SELECT ?item ?itemLabel ?inchikey WHERE
  
  
  Item with PubChem CID - 998.
+ 
 ---------------------------------------------------------------------------------------------------------------------------------------SELECT ?item ?itemLabel 
     WHERE 
     {
