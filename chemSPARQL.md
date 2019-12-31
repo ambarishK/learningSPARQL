@@ -2,7 +2,6 @@
 
 - [WikiProject_Chemistry](https://www.wikidata.org/wiki/Wikidata:WikiProject_Chemistry/Guidelines)
 
-- Items - 
 
 - Properties - 
  - P661 - [ChemSpider ID](https://www.wikidata.org/wiki/Property:P661) - instance of - Wikidata property to identify substances OR Wikidata property related to chemistry.
@@ -24,3 +23,19 @@
  - P1889 [different from](https://www.wikidata.org/wiki/Property:P1889) - instance of - Wikidata property to describe the elements of identity, symmetric property.
  
  
+- Items - 
+
+  wd:Q56697247
+
+- query
+
+All item which are part of (+,-) nicotine. 
+---------------------------------------------------------------------------------------------------------------------------------------
+SELECT ?item ?itemLabel ?inchikey WHERE
+{
+
+  ?item wdt:P527 wd:Q56697247.
+  
+}
+
+----------------------------------------------------------------------------------------------------------------------------------------
